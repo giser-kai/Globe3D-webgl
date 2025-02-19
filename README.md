@@ -1,5 +1,5 @@
-# demo1
-
+# three.js 3D地球
+简易版3D地球  通过three.js实现
 ## Project setup
 ```
 npm install
